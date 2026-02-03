@@ -1,4 +1,5 @@
-D 'testex': Executes a statistical test of the exclusion restriction of an instrumental variable (IV) Use testex With STATA 19
+D 'r2nlsur': (NL-SUR) Overall System R2 - Adjusted R2 - F Test - Chi2 Test Use r2nlsur With STATA 19
 D
-F testex.ado
-F testex.sthlp
+F r2nlsur.ado
+F r2nlsur.dlg
+F r2nlsur.sthlp
